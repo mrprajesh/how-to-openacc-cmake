@@ -1,5 +1,6 @@
 # how-to-openacc-cmake
 
+How to run OpenACC files using CMake. A simple hello world project.
 
 ## Prereq
 
